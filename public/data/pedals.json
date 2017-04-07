@@ -688,8 +688,8 @@
     {
         "Brand": "Analog.Man",
         "Name": "Prince of Tone",
-        "Width": 2.2,
-        "Height": 4.2,
+        "Width": 2.5,
+        "Height": 4.5,
         "Image": "analogman-princeoftone.png"
     },
     {
@@ -1724,7 +1724,7 @@
     {
         "Brand": "Klon",
         "Name": "KTR",
-        "Width": 3.7,
+        "Width": 3.625,
         "Height": 4.7,
         "Image": "klon-ktr.png"
     },
@@ -3097,7 +3097,7 @@
         "Brand": "Empress",
         "Name": "Compressor",
         "Width": 4.5,
-        "Height": 3.5,
+        "Height": 3.625,
         "Image": "empress-comp.png"
     },
 	{
